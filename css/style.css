@@ -1,0 +1,97 @@
+h2{
+    font-size: 40px;
+    color:#00ace6;
+    font-style: italic;
+
+}
+h1{
+    font-size: 45px;
+    color:#00131a ;
+    font-style: italic;
+
+}
+ul{
+    font-size: 25px;
+    color:black;
+}
+body{
+    background-color:rgb(255,140,0);
+}
+img {float: left;
+
+}
+.uni {
+    color: rgb(10, 212, 219);
+}
+a {
+    color:#00ace6;
+    font-style: italic;
+    font-weight: 1000;
+}
+ol{
+    font-size: 25px;
+    color:black;
+}
+.prof{
+    font-size: 25px;
+    color:black;
+
+}
+.sidebar{
+    width:30;
+    float: left;
+
+  border-left: 2px solid rgb(255,165,0);
+  border-right: 4px solid rgb(255,165,0);
+  border-top: 6px solid rgb(255,165,0);
+  border-bottom: 8px solid rgb(255,165,0);
+  padding: 16px;
+  margin: 20px;
+  margin-top: 20px;
+  background-color: aquamarine;
+}
+
+.column{
+    width: 350px;
+    float: left;
+    border-left: 2px solid rgb(255,165,0);
+  border-right: 4px solid rgb(255,165,0);
+  border-top: 6px solid rgb(255,165,0);
+  border-bottom: 8px solid rgb(255,165,0);
+  padding: 26px;
+
+  margin: 10px;
+  background-color:white;
+}
+.he{
+  text-align:center ;
+  margin-right: 50%;
+}
+.column2{
+    width: 350px;
+    float: left;
+    border-left: 2px solid rgb(255,165,0);
+  border-right: 4px solid rgb(255,165,0);
+  border-top: 6px solid rgb(255,165,0);
+  border-bottom: 8px solid rgb(255,165,0);
+  padding: 16px;
+  margin: 10px;
+  margin-top: 65px;
+  background-color:white;
+}
+.column1{
+    width: 350px;
+    float: right;
+}
+.extra{
+    font-size: 20px;
+}
+.one{
+    font-size: 20px;
+    color:#00ace6;
+
+}
+.two
+{
+    font-size: 20px;
+}
