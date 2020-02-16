@@ -1,4 +1,4 @@
-# Gesare Ombati
+# My portfolio
 #### This is a webpage that has a little about me and the work i have been doing. 
 #### By Gesare Ombati with assistance from Louise and Sam
 ## Description
